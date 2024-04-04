@@ -1,6 +1,7 @@
 # WPF Calculator Application 🧮
 
-![Screenshot (1052)](https://github.com/Varsha-sunil/WPF_Calculator_Application/assets/117578165/6177c61a-158f-40b7-b2f2-f002e6c7c8b6)
+![image](https://github.com/Varsha-sunil/WPF_Calculator_Application/assets/117578165/d37b39bc-d8a7-414d-b2fd-33c06ec9cffb)
+
 
 A simple Calculator Application developed using C# and Windows Presentation Foundation (WPF).
 
